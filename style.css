@@ -949,5 +949,8 @@ button.btn-default.shop_now_btn {
 	background-color:#EE1A30;
 }
 
-
+.hover-item7:hover {
+	color: white;
+	background-color:#F15E28;
+}
 
